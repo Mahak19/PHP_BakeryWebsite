@@ -1,0 +1,30 @@
+.ipBackground {
+    min-height: 10px;
+    min-width: 10px;
+    background-size: cover;
+    background-image: url("../Images/Product_BG.jpg");
+    backdrop-filter: 140px;
+    font-family: Playfair Display;
+}
+
+.line {
+    text-decoration: none;
+    width: 100%;
+}
+
+.custom_cart_butn {
+    height: 2.75rem;
+    font-weight: bold;
+    border: 3px solid rgb(121, 4, 121);
+    background-color: rgb(234, 64, 234);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.5rem;
+    color: black;
+}
+
+.custom_cart_butn:hover {
+    background-color: rgb(164, 58, 210);
+    border: 3px solid purple;
+}

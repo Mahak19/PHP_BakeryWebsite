@@ -1,0 +1,161 @@
+/*  Bakery Intro    */
+
+.Intro {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.Text {
+    margin-top: 80px;
+}
+
+.Heading {
+    padding-top: 80px;
+    font-size: 38px;
+    font-family: "Aladin";
+    padding-left: 100px;
+}
+
+.Desc {
+    padding-top: 55px;
+    font-family: "Merienda";
+    font-size: 28px;
+    color: rgb(142, 52, 112);
+}
+
+.Intro span {
+    font-family: "Tangerine";
+    font-size: 56px;
+    margin-left: 150px;
+    color: rgb(108, 4, 18);
+}
+
+.Intro .Image {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 150px;
+    height: 500px;
+    transform: rotate(-13deg);
+    padding: 8px;
+    border: 2px dashed rgb(255, 110, 110);
+    border-radius: 70px;
+    background-color: rgb(255, 192, 144);
+}
+
+
+/*  Prouduct Carousel   */
+
+.Product-Carousel {
+    
+    margin-top: 70px;
+    margin-bottom: 60px;
+}
+
+.Product-img {
+    width: 1350px;
+    height: 600px;
+}
+
+.Product-Quote {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgb(0, 0, 0, 0.5);
+    color: #d0ebf5;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding: 250px;
+    font-family: "Cookie";
+    font-size: 48px;
+}
+
+/*  Product Info */
+
+.Info-Container {
+    display: flex;
+    justify-content: center;
+    margin-top: 65px;
+    margin-left: 15px;
+    padding-bottom: 60px;
+}
+
+.Items1-img {
+    height: 150px;
+    width: 170px;
+}
+
+.Items2 {
+    margin-left: 80px;
+}
+
+.Caption {
+    font-family: "Alegreya";
+    font-size: 18px;
+    color: rgb(186, 53, 53);
+    font-weight: bold;
+}
+
+.Detail {
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color: rgb(79, 54, 54);
+}
+
+/*  Heading For Most Popular Products */
+.Heading2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Playfair-Display";
+    font-style: italic;
+    font-size: 36px;
+    margin-bottom: 40px;
+    color: #8f02ab;
+}
+
+/*  Popular Products  */
+
+.Products-Info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+
+
+.Dessert-Image {
+    height: 260px;
+    width: 250px;
+    padding: 7px;
+    border-radius: 50px 95px;
+    border: 5px double rgb(141, 76, 125);
+    transition: .3s;
+}
+
+.Dessert-Name {
+    position: absolute;
+    width: 200px;
+    text-wrap: wrap;
+    padding-top: 95px;
+    text-align: center;
+    font-family: "Handlee";
+    font-size: 30px;
+    transition: .3s;
+    opacity: 0;
+}
+
+.Products-Info:hover .Dessert-Name {
+    opacity: 1;
+    color: #510074;
+    transition: .3s;
+}
+
+.Products-Info:hover .Dessert-Image {
+    background: rgba(133, 133, 133);
+    background: rgba(133, 133, 133, 0.5);
+    opacity: 0.50;
+    transition: .3s;
+}

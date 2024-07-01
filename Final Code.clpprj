@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="C:\xampp\htdocs\Final Code\Final Code.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/C:/xampp/htdocs/Final Code]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/C:/xampp/htdocs/Final Code]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="C:\xampp\htdocs\Final Code\Stylesheet\Product.css"/>
+  <file name="C:\xampp\htdocs\Final Code\Cake\BundtCake.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Biscuit\Crinkle.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Biscuit\Macron.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Account\Login_Form.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Account\Login.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Account\Cart.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Account\User.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Menu\My Cart.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Account\Order.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Account\Place_Order.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Menu\Header.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Premium\Bakes.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Menu\SpecialOffer.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Menu\About Us.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Menu\Footer.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Menu\External Link.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Account\Sign_Up.php"/>
+  <file name="C:\xampp\htdocs\Final Code\Menu\Home.php"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <lasttime value="1711767490"/>
+</project>
